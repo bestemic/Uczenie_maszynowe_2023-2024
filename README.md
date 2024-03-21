@@ -22,3 +22,13 @@
 ✅ 5.0 - modify the output image with borders between clusters
 
 Code: [exercises 1](047Clustering_Exercises.ipynb)
+
+### Exercises 2 Linear
+
+✅ 3.0 - cross-validation linear regression
+
+✅ 4.0 - implement based on the Ridge regression example, the Lasso regression
+
+✅ 5.0 - extend the Fisher's classifier
+
+Code: [exercises 2](025_Exercises.ipynb)
