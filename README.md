@@ -11,24 +11,44 @@
 
 ### Exercises 1 Clustering
 
-✅ 3.0 - modify the HCM code to work for three groups
+✅ 1. - modify the HCM code to work for three groups
 
-✅ 3.5 - plot the density clusters
+✅ 2. - plot the density clusters
 
-✅ 4.0 - build a dendrogram using dendrograms_history and pydot
+✅ 3. - build a dendrogram using dendrograms_history and pydot
 
-✅ 4.5 - implement the $s_2$ metric
+✅ 4. - implement the $s_2$ metric
 
-✅ 5.0 - modify the output image with borders between clusters
+✅ 5. - modify the output image with borders between clusters
 
 Code: [exercises 1](047Clustering_Exercises.ipynb)
 
 ### Exercises 2 Linear
 
-✅ 3.0 - cross-validation linear regression
+✅ 1. - cross-validation linear regression
 
-✅ 4.0 - implement based on the Ridge regression example, the Lasso regression
+✅ 2. - implement based on the Ridge regression example, the Lasso regression
 
-✅ 5.0 - extend the Fisher's classifier
+✅ 3. - extend the Fisher's classifier
 
 Code: [exercises 2](025_Exercises.ipynb)
+
+### Exercises 3 Trees
+
+❌ 1. - rewrite the CART method to the Gini index
+
+❌ 2. - use pydot do draw the tree for C4.5 example
+
+❌ 3. - implement the minimum number of objects pruning method
+
+❌ 4. - plot OC1 tree, but instead of elements id, print the feature id it was split by
+
+Code: [exercises 3](055Decision_trees_Exercises.ipynb)
+
+### Exercises 4 Ensemble
+
+✅ 1. - find the best three classifier in the stacking method
+
+✅ 2. - build arcing arc-x4 method
+
+Code: [exercises 4](075Ensemble_Exercises.ipynb)
