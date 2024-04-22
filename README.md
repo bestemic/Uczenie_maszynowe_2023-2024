@@ -35,13 +35,13 @@ Code: [exercises 2](025_Exercises.ipynb)
 
 ### Exercises 3 Trees
 
-❌ 1. - rewrite the CART method to the Gini index
+✅ 1. - rewrite the CART method to the Gini index
 
-❌ 2. - use pydot do draw the tree for C4.5 example
+✅ 2. - use pydot do draw the tree for C4.5 example
 
-❌ 3. - implement the minimum number of objects pruning method
+✅ 3. - implement the minimum number of objects pruning method
 
-❌ 4. - plot OC1 tree, but instead of elements id, print the feature id it was split by
+✅ 4. - plot OC1 tree, but instead of elements id, print the feature id it was split by
 
 Code: [exercises 3](055Decision_trees_Exercises.ipynb)
 
