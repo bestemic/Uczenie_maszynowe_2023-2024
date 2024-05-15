@@ -60,3 +60,17 @@ Code: [exercises 4](075Ensemble_Exercises.ipynb)
 ❌ 2. - implement the multiclass C-SVM
 
 Code: [exercises 5](065_SVM_Exercises.ipynb)
+
+### Exercises 6 NLP
+
+✅ 1. - build your own tokenizer
+
+✅ 2. - get tags from Trump speech using NLTK
+
+✅ 3. - get the nouns in the last 10 sentences from Trump's speech and find the nouns divided by sentences
+
+✅ 4. - build your own Bag Of Words implementation using tokenizer created before
+
+✅ 4. - build a 5-gram model and clean up the results
+
+Code: [exercises 6](106_NLP_Exercises.ipynb)
