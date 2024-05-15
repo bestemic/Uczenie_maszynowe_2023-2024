@@ -57,7 +57,7 @@ Code: [exercises 4](075Ensemble_Exercises.ipynb)
 
 ✅ 1. - implement the polynomial kernel
 
-❌ 2. - implement the multiclass C-SVM
+✅ 2. - implement the multiclass C-SVM
 
 Code: [exercises 5](065_SVM_Exercises.ipynb)
 
