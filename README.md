@@ -52,3 +52,11 @@ Code: [exercises 3](055Decision_trees_Exercises.ipynb)
 ✅ 2. - build arcing arc-x4 method
 
 Code: [exercises 4](075Ensemble_Exercises.ipynb)
+
+### Exercises 5 SVM
+
+✅ 1. - implement the polynomial kernel
+
+❌ 2. - implement the multiclass C-SVM
+
+Code: [exercises 5](065_SVM_Exercises.ipynb)
